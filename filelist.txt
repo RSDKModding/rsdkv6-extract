@@ -5405,81 +5405,92 @@ Data/Textures/Title/LevelSelect0.pvr.gz
 Data/Textures/Title/TitleLogos.pvr.gz
 Data/Textures/Title/TitleSprites1.pvr.gz
 Data/Textures/Title/TitleSprites2.pvr.gz
------------- PACK 088 - Music_Backstage ------------
+------------ PACK 088 - f0258b6685684c113bad94d91b8fa02a ------------
+Data/Textures/Title/TitleLogoDemo.pvr.gz
+Data/Textures/Title/TitleLogoDemoJA.pvr.gz
+Data/Textures/Title/TitleLogoDemoKO.pvr.gz
+Data/Textures/Title/TitleLogoDemoZH.pvr.gz
+Data/Textures/Title/TitleLogoDemoZS.pvr.gz
+Data/Textures/Demo/SplashScreenImage_EN.pvr.gz
+Data/Textures/Demo/SplashScreenImage_JA.pvr.gz
+Data/Textures/Demo/SplashScreenImage_KO.pvr.gz
+Data/Textures/Demo/SplashScreenImage_ZH.pvr.gz
+Data/Textures/Demo/SplashScreenImage_ZS.pvr.gz
+------------ PACK 089 - Music_Backstage ------------
 Data/PCMSources/Music/Backstage.ogg
------------- PACK 089 - Music_Bathhouse ------------
+------------ PACK 090 - Music_Bathhouse ------------
 Data/PCMSources/Music/Bathhouse.ogg
 Data/PCMSources/Music/Bathhouse_Pinch.ogg
------------- PACK 090 - Music_Coast ------------
+------------ PACK 091 - Music_Coast ------------
 Data/PCMSources/Music/Coast.ogg
 Data/PCMSources/Music/Coast_Pinch.ogg
------------- PACK 091 - Music_Courthouse ------------
+------------ PACK 092 - Music_Courthouse ------------
 Data/PCMSources/Music/Courthouse.ogg
 Data/PCMSources/Music/Courthouse_Pinch.ogg
------------- PACK 092 - Music_Credits ------------
+------------ PACK 093 - Music_Credits ------------
 Data/PCMSources/Music/Credits.ogg
------------- PACK 093 - Music_CutsceneCute ------------
+------------ PACK 094 - Music_CutsceneCute ------------
 Data/PCMSources/Music/CutsceneCute.ogg
------------- PACK 094 - Music_CutsceneEddie ------------
+------------ PACK 095 - Music_CutsceneEddie ------------
 Data/PCMSources/Music/CutsceneEddie.ogg
------------- PACK 095 - Music_CutsceneEncounter ------------
+------------ PACK 096 - Music_CutsceneEncounter ------------
 Data/PCMSources/Music/CutsceneEncounter.ogg
------------- PACK 096 - Music_CutsceneOverture ------------
+------------ PACK 097 - Music_CutsceneOverture ------------
 Data/PCMSources/Music/CutsceneOverture.ogg
------------- PACK 097 - Music_CutsceneRufus ------------
+------------ PACK 098 - Music_CutsceneRufus ------------
 Data/PCMSources/Music/CutsceneRufus.ogg
------------- PACK 098 - Music_CutsceneTaboo ------------
+------------ PACK 099 - Music_CutsceneTaboo ------------
 Data/PCMSources/Music/CutsceneTaboo.ogg
------------- PACK 099 - Music_Desert ------------
+------------ PACK 100 - Music_Desert ------------
 Data/PCMSources/Music/Desert.ogg
 Data/PCMSources/Music/Desert_Pinch.ogg
------------- PACK 100 - Music_EddieBoss ------------
+------------ PACK 101 - Music_EddieBoss ------------
 Data/PCMSources/Music/EddieBoss.ogg
------------- PACK 101 - Music_EndingCutscene ------------
+------------ PACK 102 - Music_EndingCutscene ------------
 Data/PCMSources/Music/EndingCutscene.ogg
------------- PACK 102 - Music_Factory ------------
+------------ PACK 103 - Music_Factory ------------
 Data/PCMSources/Music/Factory.ogg
 Data/PCMSources/Music/Factory_Pinch.ogg
------------- PACK 103 - Music_FinalAct ------------
+------------ PACK 104 - Music_FinalAct ------------
 Data/PCMSources/Music/FinalAct.ogg
------------- PACK 104 - Music_GiantPengBoss ------------
+------------ PACK 105 - Music_GiantPengBoss ------------
 Data/PCMSources/Music/GiantPengBoss.ogg
------------- PACK 105 - Music_LavaRestaurant ------------
+------------ PACK 106 - Music_LavaRestaurant ------------
 Data/PCMSources/Music/LavaRestaurant.ogg
 Data/PCMSources/Music/LavaRestaurant_Pinch.ogg
------------- PACK 106 - Music_MainMenu ------------
+------------ PACK 107 - Music_MainMenu ------------
 Data/PCMSources/Music/MainMenu.ogg
------------- PACK 107 - Music_MrQ ------------
+------------ PACK 108 - Music_MrQ ------------
 Data/PCMSources/Music/Mr_Q.ogg
------------- PACK 108 - Music_Palace ------------
+------------ PACK 109 - Music_Palace ------------
 Data/PCMSources/Music/Palace.ogg
 Data/PCMSources/Music/Palace_Pinch.ogg
------------- PACK 109 - Music_Penguinville ------------
+------------ PACK 110 - Music_Penguinville ------------
 Data/PCMSources/Music/Penguinville.ogg
 Data/PCMSources/Music/Penguinville_Pinch.ogg
------------- PACK 110 - Music_Pursuit ------------
+------------ PACK 111 - Music_Pursuit ------------
 Data/PCMSources/Music/Pursuit.ogg
------------- PACK 111 - Music_RufusBoss ------------
+------------ PACK 112 - Music_RufusBoss ------------
 Data/PCMSources/Music/RufusBoss.ogg
------------- PACK 112 - Music_Sheila ------------
+------------ PACK 113 - Music_Sheila ------------
 Data/PCMSources/Music/Sheila.ogg
------------- PACK 113 - Music_SnowGlobe1 ------------
+------------ PACK 114 - Music_SnowGlobe1 ------------
 Data/PCMSources/Music/SnowGlobe1.ogg
------------- PACK 114 - Music_SnowGlobe2 ------------
+------------ PACK 115 - Music_SnowGlobe2 ------------
 Data/PCMSources/Music/SnowGlobe2.ogg
------------- PACK 115 - Music_SnowGlobe3 ------------
+------------ PACK 116 - Music_SnowGlobe3 ------------
 Data/PCMSources/Music/SnowGlobe3.ogg
------------- PACK 116 - Music_SnowGlobe4 ------------
+------------ PACK 117 - Music_SnowGlobe4 ------------
 Data/PCMSources/Music/SnowGlobe4.ogg
------------- PACK 117 - Music_SnowGlobe5 ------------
+------------ PACK 118 - Music_SnowGlobe5 ------------
 Data/PCMSources/Music/SnowGlobe5.ogg
------------- PACK 118 - Music_VanillaTown ------------
+------------ PACK 119 - Music_VanillaTown ------------
 Data/PCMSources/Music/VanillaTown.ogg
 Data/PCMSources/Music/VanillaTown_Pinch.ogg
------------- PACK 119 - Music_VanillaTownPrologue ------------
+------------ PACK 120 - Music_VanillaTownPrologue ------------
 Data/PCMSources/Music/VanillaTownPrologue.ogg
------------- PACK 120 - Music_VanillaTownRedux ------------
+------------ PACK 121 - Music_VanillaTownRedux ------------
 Data/PCMSources/Music/VanillaTownRedux.ogg
 Data/PCMSources/Music/VanillaTownRedux_Pinch.ogg
------------- PACK 121 - Music_WorldsEdge ------------
+------------ PACK 122 - Music_WorldsEdge ------------
 Data/PCMSources/Music/WorldsEdge.ogg
