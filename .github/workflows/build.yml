@@ -1,0 +1,40 @@
+name: Build rsdkv6-extract
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        include:
+          - os: ubuntu-latest
+            target: x86_64-unknown-linux-gnu
+            artifact_name: rsdkv6-extract
+          - os: windows-latest
+            target: x86_64-pc-windows-msvc
+            artifact_name: rsdkv6-extract.exe
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Build
+        run: |
+          cargo build --release --target ${{ matrix.target }}
+
+      - name: Move artifacts
+        run: |
+          mkdir artifacts
+          mv target/${{ matrix.target }}/release/${{ matrix.artifact_name }} artifacts
+          mv filelist.txt artifacts
+          mv packnames.txt artifacts
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: rsdkv6-extract-${{ matrix.target }}
+          path: artifacts
