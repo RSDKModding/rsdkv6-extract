@@ -2347,7 +2347,7 @@ Data/Animations/Player/YotagCreditsPoses.bin
 Data/Animations/Player/YotagThrow.bin
 Data/Animations/Player/YoYo.bin
 Data/Meshes/DenizenProps/Brush.bin
-MISSING/c9a3a615b1db7907e42724fa8df603bd@5.bin.mdl
+Data/Meshes/DenizenProps/Bucket.bin
 Data/Meshes/DenizenProps/ExtendoShears.bin
 MISSING/475e8064311813548945e45341c8030d@5.bin.mdl
 MISSING/0f2a91cbf0d4b5f4009ed2e8c65dc358@5.bin.mdl
@@ -5495,3 +5495,4 @@ Data/PCMSources/Music/VanillaTownRedux_Pinch.ogg
 ------------ PACK 122 - Music_WorldsEdge ------------
 
 Data/PCMSources/Music/WorldsEdge.ogg
+
