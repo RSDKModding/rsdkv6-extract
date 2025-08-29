@@ -2346,23 +2346,23 @@ Data/Animations/Player/YotagCinematics_Camera.bin
 Data/Animations/Player/YotagCreditsPoses.bin
 Data/Animations/Player/YotagThrow.bin
 Data/Animations/Player/YoYo.bin
-MISSING/194b8697013d5f24342d19f791f4a9df@5.bin.mdl
+Data/Meshes/DenizenProps/Brush.bin
 MISSING/c9a3a615b1db7907e42724fa8df603bd@5.bin.mdl
-MISSING/bdd4a48a44b2592bffa71df48d8d02d5@5.bin.mdl
+Data/Meshes/DenizenProps/ExtendoShears.bin
 MISSING/475e8064311813548945e45341c8030d@5.bin.mdl
 MISSING/0f2a91cbf0d4b5f4009ed2e8c65dc358@5.bin.mdl
 MISSING/e7f1632c8651d4c418ca996ebb5b5daa@5.bin.mdl
-MISSING/58ba53df34423b069ab8df6a43759f45@5.bin.mdl
+Data/Meshes/DenizenProps/Hammer.bin
 MISSING/8ad58f4acb0be380411438bc9ee46bf5@5.bin.mdl
 MISSING/874062ce2dd34a8b261a16d2d002155f@5.bin.mdl
 MISSING/c7b87854cec91e291f936234183d0f9f@5.bin.mdl
 MISSING/0dbc06816d42c51000b4477b6c34a536@5.bin.mdl
-MISSING/47e762732d9921e3bf66154c9f88795c@5.bin.mdl
+Data/Meshes/DenizenProps/Nail.bin
 MISSING/1f8ff624d4f7b37a016a8c4fa7a66863@5.bin.mdl
 MISSING/d8fb34443400e94de3eb3f72c02d877b@5.bin.mdl
 MISSING/5deea06ba6ffbde5bdab568c0c761ef5@5.bin.mdl
 MISSING/9d2a9411cb16c05557b198c1dd4fde47@5.bin.mdl
-MISSING/8c6cfc10038b335055dff95da22f2df5@5.bin.mdl
+Data/Meshes/DenizenProps/WaterTank.bin
 Data/Meshes/Denizens/Assistant.bin
 Data/Meshes/Denizens/Chef_F.bin
 Data/Meshes/Denizens/Chef_M.bin
@@ -5493,4 +5493,5 @@ Data/PCMSources/Music/VanillaTownPrologue.ogg
 Data/PCMSources/Music/VanillaTownRedux.ogg
 Data/PCMSources/Music/VanillaTownRedux_Pinch.ogg
 ------------ PACK 122 - Music_WorldsEdge ------------
+
 Data/PCMSources/Music/WorldsEdge.ogg
