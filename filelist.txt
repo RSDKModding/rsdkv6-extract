@@ -2353,7 +2353,7 @@ MISSING/475e8064311813548945e45341c8030d@5.bin.mdl
 MISSING/0f2a91cbf0d4b5f4009ed2e8c65dc358@5.bin.mdl
 MISSING/e7f1632c8651d4c418ca996ebb5b5daa@5.bin.mdl
 Data/Meshes/DenizenProps/Hammer.bin
-MISSING/8ad58f4acb0be380411438bc9ee46bf5@5.bin.mdl
+Data/Meshes/DenizenProps/Laser.bin
 MISSING/874062ce2dd34a8b261a16d2d002155f@5.bin.mdl
 Data/Meshes/DenizenProps/Lightbulb.bin
 MISSING/0dbc06816d42c51000b4477b6c34a536@5.bin.mdl
@@ -5494,4 +5494,5 @@ Data/PCMSources/Music/VanillaTownRedux.ogg
 Data/PCMSources/Music/VanillaTownRedux_Pinch.ogg
 ------------ PACK 122 - Music_WorldsEdge ------------
 Data/PCMSources/Music/WorldsEdge.ogg
+
 
