@@ -379,6 +379,7 @@ Data/Cinematics/G10_EddieTransform.cfg
 Data/Cinematics/G11_EddieDefeat.cfg
 Data/Compositions/Backstage.bin
 Data/Compositions/ControlsMenu.bin
+Data/Compositions/DemoInfo.bin
 Data/Compositions/GamepadDisclaimer.bin
 Data/Compositions/HUD.bin
 Data/Compositions/MainMenus.bin
@@ -2544,9 +2545,9 @@ Data/Meshes/Gimmicks/SpikePanelBase.bin
 Data/Meshes/Gimmicks/SpikePanelSpikes.bin
 Data/Meshes/Gimmicks/SwingPole.bin
 Data/Meshes/Gimmicks/SwingWall.bin
-MISSING/b550a561ee9eec3546b1a50f8bae61a5@5.bin.mdl
-MISSING/c329b500300cf1b7ba7b51b6968bc8ad@5.bin.mdl
-MISSING/d15faa0473dc29ab582be89436aed543@5.bin.mdl
+Data/Meshes/Gimmicks/SwingWallBack.bin
+Data/Meshes/Gimmicks/SwingWallBottom.bin
+Data/Meshes/Gimmicks/SwingWallTop.bin
 Data/Meshes/Gimmicks/SwitchDoor.bin
 Data/Meshes/Gimmicks/SwitchDoorButton.bin
 Data/Meshes/Gimmicks/SwitchDoorLight.bin
@@ -2563,7 +2564,7 @@ Data/Meshes/Gimmicks/Trampoline_2x4.bin
 Data/Meshes/Gimmicks/Trampoline_4x4.bin
 Data/Meshes/Gimmicks/Turnstile.bin
 Data/Meshes/Gimmicks/TurnstileCCW.bin
-MISSING/0a76250d979dee14ab4d2fb609937078@5.bin.mdl
+Data/Meshes/Gimmicks/TurnstileCW.bin
 Data/Meshes/Gimmicks/Turntable.bin
 Data/Meshes/Gimmicks/Turntable_128.bin
 Data/Meshes/Gimmicks/Turntable_256.bin
@@ -2990,18 +2991,18 @@ Data/Palettes/Env/VanillaTownStage.bin
 Data/Palettes/Env/VanillaTownTerrain.bin
 Data/Palettes/World/VanillaTown.bin
 Data/Palettes/World/VTSkybox.bin
-MISSING/2ea0e8528568d184349b4ebb249ed9c7@7.pvr.gz -- something before vanillatown folder
-MISSING/e6919d20b441b39f4bd168b4d3ffbca5@7.pvr.gz -- it looks like some old vanillatown
-MISSING/38ce3685f345e6ab94af03060b7e447b@7.pvr.gz
-MISSING/e686499055e4de18d5252d53320e6053@7.pvr.gz
-MISSING/060e37a699ddc95df3f8d8567a956e25@7.pvr.gz
-MISSING/a0d2539348874175d6238cad9d48f360@7.pvr.gz
-MISSING/30a497daf80cbb45f5142160df48be48@7.pvr.gz
-MISSING/af29cf016431071191fb41dc2b30b9ef@7.pvr.gz
-MISSING/11ce6fb1b7bcc7765452fd5ce5d0d5a2@7.pvr.gz
-MISSING/16843f3a51aa99421207e23ff49fd8c2@7.pvr.gz
-MISSING/da404bbe1173c4162343dd4ea4bf3dd5@7.pvr.gz
-MISSING/f146436281bfb32eb2cc3a4cc67a567c@7.pvr.gz
+Data/Textures/Env_VanillaTown/GardenWall.pvr.gz
+Data/Textures/Env_VanillaTown/HedgeMemphis.pvr.gz
+Data/Textures/Env_VanillaTown/LightmapVT0.pvr.gz
+Data/Textures/Env_VanillaTown/MainFloor.pvr.gz
+Data/Textures/Env_VanillaTown/PlanterWood.pvr.gz
+Data/Textures/Env_VanillaTown/ShingleEdge.pvr.gz
+Data/Textures/Env_VanillaTown/ShingleRoof.pvr.gz
+Data/Textures/Env_VanillaTown/SwissCheese_Edge.pvr.gz
+Data/Textures/Env_VanillaTown/Wall_Texture.pvr.gz
+Data/Textures/Env_VanillaTown/WindowBlindDark_Stripe.pvr.gz
+Data/Textures/Env_VanillaTown/WindowBlindLight_Stripe.pvr.gz
+Data/Textures/Env_VanillaTown/WoodGrain_Plank.pvr.gz
 Data/Textures/Vanillatown/A_Box.pvr.gz
 Data/Textures/Vanillatown/A_DiagonalStrip.pvr.gz
 Data/Textures/Vanillatown/A_StripeSquare.pvr.gz
@@ -3548,7 +3549,7 @@ Data/Meshes/WorldsEdge/StackingShapeE_Tan.bin
 Data/Meshes/WorldsEdge/TeleportBook.bin
 Data/Meshes/WorldsEdge/WallLamp.bin
 Data/Meshes/WorldsEdge/YellowWallDiamond.bin
-MISSING/a8459da4dfe11b1a85f69ed6e98d1600@12.bin.pal
+Data/Palettes/Env/WorldsEdge.bin
 Data/Palettes/World/WESkybox.bin
 Data/Palettes/World/WorldsEdge.bin
 Data/Textures/WorldsEdge/A_AbstractPlanet.pvr.gz
@@ -3876,7 +3877,7 @@ Data/Meshes/Courthouse/WaterTapWheel.bin
 Data/Meshes/Skybox/CHSkinGrad.bin
 Data/Meshes/Skybox/CHStaticDiff.bin
 Data/Meshes/Skybox/CHStaticGrad.bin
-MISSING/e2f84af53ebf32d89253f7f47c10b3b7@15.bin.pal
+Data/Palettes/Env/CourtHouse.bin
 Data/Palettes/World/Courthouse.bin
 Data/Palettes/World/CourthouseSkybox.bin
 Data/Textures/Courthouse/A_DoubleSquare.pvr.gz
@@ -4572,7 +4573,7 @@ Data/Layers/07_WorldsEdge/W1/Skybox.bin
 Data/Layers/07_WorldsEdge/W1/Terrain_B1.bin
 Data/Layers/07_WorldsEdge/W1/Terrain_B2.bin
 Data/Layers/07_WorldsEdge/W1/Terrain_B3.bin
-MISSING/614501e048bc37f4197c81a51381fb87@25.bin.lyr
+Data/Layers/07_WorldsEdge/W1/Terrain_B4.bin
 Data/Layers/07_WorldsEdge/W1/Terrain_Blockout.bin
 Data/Layers/07_WorldsEdge/W1/Terrain_Decor.bin
 Data/Layers/07_WorldsEdge/W1/Terrain_Scratch.bin
