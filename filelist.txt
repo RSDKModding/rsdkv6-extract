@@ -5407,6 +5407,11 @@ Data/Videos/Attract.ivf
 Data/Videos/Attract.ogg
 ------------ PACK 087 - Title ------------
 Data/Sprites/Title/LevelSelect0.bin
+Data/Sprites/Title/TitleLogoDemo.bin
+Data/Sprites/Title/TitleLogoDemoJA.bin
+Data/Sprites/Title/TitleLogoDemoKO.bin
+Data/Sprites/Title/TitleLogoDemoZH.bin
+Data/Sprites/Title/TitleLogoDemoZS.bin
 Data/Sprites/Title/TitleLogos.bin
 Data/Sprites/Title/TitleSprites1.bin
 Data/Sprites/Title/TitleSprites2.bin
@@ -5414,15 +5419,20 @@ Data/Textures/Title/BG1.pvr.gz
 Data/Textures/Title/BG2.pvr.gz
 Data/Textures/Title/BG3.pvr.gz
 Data/Textures/Title/LevelSelect0.pvr.gz
-Data/Textures/Title/TitleLogos.pvr.gz
-Data/Textures/Title/TitleSprites1.pvr.gz
-Data/Textures/Title/TitleSprites2.pvr.gz
------------- PACK 088 - f0258b6685684c113bad94d91b8fa02a ------------
 Data/Textures/Title/TitleLogoDemo.pvr.gz
 Data/Textures/Title/TitleLogoDemoJA.pvr.gz
 Data/Textures/Title/TitleLogoDemoKO.pvr.gz
 Data/Textures/Title/TitleLogoDemoZH.pvr.gz
 Data/Textures/Title/TitleLogoDemoZS.pvr.gz
+Data/Textures/Title/TitleLogos.pvr.gz
+Data/Textures/Title/TitleSprites1.pvr.gz
+Data/Textures/Title/TitleSprites2.pvr.gz
+------------ PACK 088 - f0258b6685684c113bad94d91b8fa02a ------------
+Data/Sprites/Demo/SplashScreenImage_EN.bin
+Data/Sprites/Demo/SplashScreenImage_JA.bin
+Data/Sprites/Demo/SplashScreenImage_KO.bin
+Data/Sprites/Demo/SplashScreenImage_ZH.bin
+Data/Sprites/Demo/SplashScreenImage_ZS.bin
 Data/Textures/Demo/SplashScreenImage_EN.pvr.gz
 Data/Textures/Demo/SplashScreenImage_JA.pvr.gz
 Data/Textures/Demo/SplashScreenImage_KO.pvr.gz
