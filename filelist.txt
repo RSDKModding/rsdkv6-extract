@@ -1385,7 +1385,7 @@ Data/PCMSources/SFX/01_Vanillatown/FlingTreeTug.wav
 Data/PCMSources/SFX/01_Vanillatown/ParkingMeterCoinInsert.wav
 Data/PCMSources/SFX/01_Vanillatown/ParkingMeterReset.wav
 Data/PCMSources/SFX/01_Vanillatown/SeeSaw.wav
-MISSING/4a7a35b931384b5634e39b4ee8967a52@3.wav
+Data/PCMSources/SFX/03_Desert/Bulb.wav
 Data/PCMSources/SFX/03_Desert/BulbFlickerOff.wav
 Data/PCMSources/SFX/03_Desert/BulbFlickerOn.wav
 Data/PCMSources/SFX/03_Desert/BulbLoop.wav
