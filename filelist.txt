@@ -1442,7 +1442,7 @@ Data/PCMSources/SFX/07_WorldsEdge/BookPlatformRustle.wav
 Data/PCMSources/SFX/07_WorldsEdge/CandleGimmickLevitate.wav
 Data/PCMSources/SFX/07_WorldsEdge/CandleGimmickLight.wav
 Data/PCMSources/SFX/07_WorldsEdge/CannonTorchFuseIgnite.wav
-MISSING/9c78798dd8177d2fa1b2b3e9d9341a5a@3.wav
+Data/PCMSources/SFX/07_WorldsEdge/CannonTorchFuseLoop.wav
 Data/PCMSources/SFX/07_WorldsEdge/DrawerClose.wav
 Data/PCMSources/SFX/07_WorldsEdge/DrawerOpen.wav
 Data/PCMSources/SFX/07_WorldsEdge/DrawerTug.wav
