@@ -273,6 +273,7 @@ Data/AssetGroups/Player/SFX.cfg
 Data/AssetGroups/Presentation/Backstage.cfg
 Data/AssetGroups/Presentation/Credits.cfg
 Data/AssetGroups/Presentation/DebugMenu.cfg
+Data/AssetGroups/Presentation/DemoEnding.cfg
 Data/AssetGroups/Presentation/LegalDocuments.cfg
 Data/AssetGroups/Presentation/MainMenu.cfg
 Data/AssetGroups/Presentation/Splash.cfg
@@ -379,6 +380,7 @@ Data/Cinematics/G10_EddieTransform.cfg
 Data/Cinematics/G11_EddieDefeat.cfg
 Data/Compositions/Backstage.bin
 Data/Compositions/ControlsMenu.bin
+Data/Compositions/DemoEnding.bin
 Data/Compositions/DemoInfo.bin
 Data/Compositions/GamepadDisclaimer.bin
 Data/Compositions/HUD.bin
@@ -783,6 +785,7 @@ Data/Layers/Presentation/Backstage/Entities.bin
 Data/Layers/Presentation/Backstage/Skybox.bin
 Data/Layers/Presentation/Credits/Entities.bin
 Data/Layers/Presentation/DebugMenu/Entities.bin
+Data/Layers/Presentation/DemoEnding/Entities.bin
 Data/Layers/Presentation/LegalDocuments/Entities.bin
 Data/Layers/Presentation/MainMenu/Entities.bin
 Data/Layers/Presentation/MainMenu/Skybox.bin
@@ -942,6 +945,7 @@ Data/Scenes/15_Snowglobes/SGPRO.cfg
 Data/Scenes/Presentation/Backstage.cfg
 Data/Scenes/Presentation/Credits.cfg
 Data/Scenes/Presentation/DebugMenu.cfg
+Data/Scenes/Presentation/DemoEnding.cfg
 Data/Scenes/Presentation/LegalDocuments.cfg
 Data/Scenes/Presentation/MainMenu.cfg
 Data/Scenes/Presentation/Splash.cfg
