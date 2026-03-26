@@ -190,12 +190,12 @@ Data/AssetGroups/Implicit/Boss/Emperor.cfg
 Data/AssetGroups/Implicit/Boss/MrEight.cfg
 Data/AssetGroups/Implicit/Boss/Sheila.cfg
 Data/AssetGroups/Implicit/Boss/Taboo.cfg
-MISSING/6522c708c678468ebd7ec859d3f45491@1
+Data/AssetGroups/Implicit/Enemies/Fauxtagonist.cfg
 Data/AssetGroups/Implicit/Fire/Textures.cfg
 Data/AssetGroups/Implicit/Garden/Textures.cfg
 Data/AssetGroups/Implicit/Gimmicks/CosmicString.cfg
 Data/AssetGroups/Implicit/Gimmicks/GlobalTextures.cfg
-MISSING/81da654b4186d3e0bf356260fb6d5b5b@1.cfg
+Data/AssetGroups/Implicit/Global/BuskerStageTextures.cfg
 Data/AssetGroups/Implicit/Global/Checkpoint.cfg
 Data/AssetGroups/Implicit/Global/DilemmaItems.cfg
 Data/AssetGroups/Implicit/Global/FinishLine.cfg
@@ -1791,7 +1791,7 @@ Data/PCMSources/SFX/Global/SwitchDoor.wav
 Data/PCMSources/SFX/Global/TapeDeckButton.wav
 Data/PCMSources/SFX/Global/TapeDeckLaunch.wav
 Data/PCMSources/SFX/Global/TensionTug.wav
-MISSING/e1c770a25f28213af989e50bf22492da@3.wav
+Data/PCMSources/SFX/Global/TensionTug2.wav
 Data/PCMSources/SFX/Global/TightRopeLaunch.wav
 Data/PCMSources/SFX/Global/TightRopePull.wav
 Data/PCMSources/SFX/Global/TorchIgnite.wav
@@ -4286,7 +4286,7 @@ Data/Layers/01_Vanillatown/V3/stickers.bin
 Data/Layers/01_Vanillatown/V3/terrain.bin
 Data/Layers/01_Vanillatown/V3/terrain_cuts.bin
 Data/Layers/01_Vanillatown/V3/terrain_decor.bin
-MISSING/595b5fbafc01502e804a5533a5f3b877@20.bin.lyr
+Data/Layers/01_Vanillatown/V3/terrain_test.bin
 Data/Layers/01_Vanillatown/V3/trigger_camera.bin
 Data/Layers/01_Vanillatown/V3/trigger_gameplay.bin
 Data/Layers/01_Vanillatown/V4/Decal.bin
@@ -4302,7 +4302,7 @@ Data/Layers/01_Vanillatown/V4/Skybox.bin
 Data/Layers/01_Vanillatown/V4/Terrain.bin
 Data/Layers/01_Vanillatown/V4/Terrain_Decor.bin
 Data/Layers/01_Vanillatown/V4/Terrain_Scratch.bin
-MISSING/f18ffe1bfe9662d92bd5a2859b1698a0@20.bin.lyr
+Data/Layers/01_Vanillatown/V4/Terrain2.bin
 Data/Layers/01_Vanillatown/V4/Triggers_Camera.bin
 Data/Layers/01_Vanillatown/V4/Triggers_Gameplay.bin
 Data/Layers/01_Vanillatown/VBF/BG_Decor.bin
@@ -5142,9 +5142,9 @@ Data/Layers/15_Snowglobes/SG15/Terrain_Temp.bin
 Data/Layers/15_Snowglobes/SG15/Trigger_Camera.bin
 Data/Textures/Lightmaps/SG15.pvr.gz
 ------------ PACK 048 - 4931d619bf5ec8be7dd5247f68cca140 ------------
-MISSING/f2b40100e86efc594fe686480818237c@48.pvr.gz -- if packname is solved this is free
+Data/Textures/Lightmaps/SG17.pvr.gz
 ------------ PACK 049 - 72d3994ac98390db8e2ce62575cf9bbc ------------
-MISSING/37d1cce7074f5f88542a826fd022a716@49.pvr.gz -- if packname is solved this is free
+Data/Textures/Lightmaps/SG18.pvr.gz
 ------------ PACK 050 - Boss_Emperor ------------
 Data/Animations/Emperor/EddieBot.bin
 Data/Animations/Emperor/Emperor_Anims.bin
