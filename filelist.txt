@@ -43,7 +43,7 @@ Data/AssetGroups/Denizens/Core.cfg
 Data/AssetGroups/Denizens/Core_Reduced.cfg
 Data/AssetGroups/Denizens/CoreDillemmas.cfg
 Data/AssetGroups/Denizens/Gardener.cfg
-MISSING/61d2c270b54dbe5bd562d757c5f736b9@1
+Data/AssetGroups/Denizens/Technician.cfg
 Data/AssetGroups/DrawGroups/FwdPipeline.cfg
 Data/AssetGroups/Env/01_Vanillatown/Decals.cfg
 Data/AssetGroups/Env/01_Vanillatown/Fence.cfg
@@ -954,7 +954,7 @@ Data/Scenes/Presentation/Title.cfg
 Data/Scenes/Prototype/GazeboLite.cfg
 Data/Scenes/Prototype/GorgeousGazebo.cfg
 Data/Scenes/Prototype/VanillatownProto.cfg
-MISSING/029e0c9003bb751772038d649d1ad28f@1
+Data/Scenes/Prototype/VanillatownProto_Lite.cfg
 Data/Scenes/Sandbox/AnaLoveVanillaTest.cfg
 Data/Scenes/Sandbox/AnaTest.cfg
 Data/Scenes/Sandbox/Artist_Sandbox.cfg
@@ -2365,12 +2365,12 @@ Data/Animations/Player/YoYo.bin
 Data/Meshes/DenizenProps/Brush.bin
 Data/Meshes/DenizenProps/Bucket.bin
 Data/Meshes/DenizenProps/ExtendoShears.bin
-MISSING/475e8064311813548945e45341c8030d@5.bin.mdl
-MISSING/0f2a91cbf0d4b5f4009ed2e8c65dc358@5.bin.mdl
+Data/Meshes/DenizenProps/ExtendoShearsBlades.bin
+Data/Meshes/DenizenProps/ExtendoShearsHandle.bin
 MISSING/e7f1632c8651d4c418ca996ebb5b5daa@5.bin.mdl
 Data/Meshes/DenizenProps/Hammer.bin
 Data/Meshes/DenizenProps/Laser.bin
-MISSING/874062ce2dd34a8b261a16d2d002155f@5.bin.mdl
+Data/Meshes/DenizenProps/LaserHandle.bin
 Data/Meshes/DenizenProps/Lightbulb.bin
 MISSING/0dbc06816d42c51000b4477b6c34a536@5.bin.mdl
 Data/Meshes/DenizenProps/Nail.bin
@@ -2402,7 +2402,7 @@ Data/Meshes/Denizens/Hiker_F.bin
 Data/Meshes/Denizens/Hiker_M.bin
 Data/Meshes/Denizens/Manager_F.bin
 Data/Meshes/Denizens/Manager_M.bin
-MISSING/772cbae8fe3194fe78d9521ec0231dd1@5.bin.mdl
+Data/Meshes/Denizens/Photographer_N.bin
 Data/Meshes/Denizens/Plumber_F.bin
 Data/Meshes/Denizens/Plumber_M.bin
 Data/Meshes/Denizens/Prisoner_F.bin
@@ -3276,7 +3276,7 @@ Data/Meshes/LavaRestaurant/Fireball_320.bin
 Data/Meshes/LavaRestaurant/Fireball_64.bin
 Data/Meshes/LavaRestaurant/FryingPan.bin
 Data/Meshes/LavaRestaurant/GrassParticle.bin
-MISSING/a188a0a68d7d909ea6837d842ba5767f@10.bin.mdl
+Data/Meshes/LavaRestaurant/LargeVineCluster.bin
 Data/Meshes/LavaRestaurant/LargeVineClusterA.bin
 Data/Meshes/LavaRestaurant/LargeVineClusterB.bin
 Data/Meshes/LavaRestaurant/LargeVineClusterC.bin
