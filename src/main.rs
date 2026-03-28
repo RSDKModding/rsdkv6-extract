@@ -214,6 +214,7 @@ fn main() {
                 b"VFX\x00" => filename += ".bin.vfx",
                 b"DKIF" => filename += ".ivf",
                 b"COM\x00" => filename += ".bin.com",
+                b"AUD\x00" => filename += ".bin.aud",
                 _ => matched = false,
             }
 
