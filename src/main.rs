@@ -251,12 +251,13 @@ fn main() {
 
     output!(out);
 
-    output!(out, "Guessed names:");
-    guessed_names.iter().for_each(|(key, name)| {
-        output!(out, "{} --> {}", key, name);
-    });
-
-    output!(out);
+    if guessed_names.len() != 0 {
+        output!(out, "Guessed names:");
+        guessed_names.iter().for_each(|(key, name)| {
+            output!(out, "{} --> {}", key, name);
+        });
+        output!(out);
+    }
 
     println!(
         //out,
