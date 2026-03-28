@@ -215,6 +215,7 @@ fn main() {
                 b"DKIF" => filename += ".ivf",
                 b"COM\x00" => filename += ".bin.com",
                 b"AUD\x00" => filename += ".bin.aud",
+                b"PVR\x03" => filename += ".pvr",
                 _ => matched = false,
             }
 
