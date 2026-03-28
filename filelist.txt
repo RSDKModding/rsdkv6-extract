@@ -204,7 +204,7 @@ Data/AssetGroups/Implicit/Items/GlobalTextures.cfg
 Data/AssetGroups/Implicit/LavaRestaurant/Textures.cfg
 Data/AssetGroups/Implicit/Machine/Textures.cfg
 Data/AssetGroups/Implicit/Player/Textures.cfg
-MISSING/042e361d88fafb2c099849bb98107db9@1
+MISSING/042e361d88fafb2c099849bb98107db9@1.cfg
 Data/AssetGroups/Implicit/Rock/Textures.cfg
 Data/AssetGroups/Implicit/Town/Textures.cfg
 Data/AssetGroups/Implicit/Water/Textures.cfg
@@ -967,7 +967,7 @@ Data/Scenes/Sandbox/Gym_Dilemmas.cfg
 Data/Scenes/Sandbox/Gym_Min.cfg
 Data/Scenes/Sandbox/Gym_Valdillez.cfg
 Data/Scenes/Sandbox/HunterSandbox.cfg
-MISSING/bc4f9fa66216554ab6680167743bf1a3@1
+MISSING/bc4f9fa66216554ab6680167743bf1a3@1.cfg
 Data/Scenes/Sandbox/JamesonSandbox.cfg
 Data/Scenes/Sandbox/JamesonSandbox2.cfg
 Data/Scenes/Sandbox/Milena_VanillaTest.cfg

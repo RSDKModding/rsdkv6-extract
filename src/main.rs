@@ -220,7 +220,12 @@ fn main() {
             }
 
             if !matched {
-                match json::parse(std::str::from_utf8(&buf).unwrap_or_default()) {
+                // Convert to UTF-8 string and remove BOM as serde fails otherwise
+                let mut filedata = std::str::from_utf8(&buf).unwrap_or_default();
+                if let Some(stripped) = filedata.strip_prefix('\u{FEFF}') {
+                    filedata = stripped;
+                }
+                match json::parse(filedata) {
                     Ok(_) => filename += ".cfg",
                     _ => (),
                 }
