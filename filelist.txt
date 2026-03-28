@@ -2367,7 +2367,7 @@ Data/Meshes/DenizenProps/Bucket.bin
 Data/Meshes/DenizenProps/ExtendoShears.bin
 Data/Meshes/DenizenProps/ExtendoShearsBlades.bin
 Data/Meshes/DenizenProps/ExtendoShearsHandle.bin
-MISSING/e7f1632c8651d4c418ca996ebb5b5daa@5.bin.mdl
+Data/Meshes/DenizenProps/ExtendoShearsMiddle.bin
 Data/Meshes/DenizenProps/Hammer.bin
 Data/Meshes/DenizenProps/Laser.bin
 Data/Meshes/DenizenProps/LaserHandle.bin
