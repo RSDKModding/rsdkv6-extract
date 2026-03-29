@@ -967,7 +967,7 @@ Data/Scenes/Sandbox/Gym_Dilemmas.cfg
 Data/Scenes/Sandbox/Gym_Min.cfg
 Data/Scenes/Sandbox/Gym_Valdillez.cfg
 Data/Scenes/Sandbox/HunterSandbox.cfg
-MISSING/bc4f9fa66216554ab6680167743bf1a3@1.cfg
+Data/Scenes/Sandbox/JamesonFootstepGardenRetreat.cfg
 Data/Scenes/Sandbox/JamesonSandbox.cfg
 Data/Scenes/Sandbox/JamesonSandbox2.cfg
 Data/Scenes/Sandbox/Milena_VanillaTest.cfg
@@ -3257,7 +3257,7 @@ Data/Textures/Desert/T_TrioStraight.pvr.gz
 Data/Textures/Desert/T_TrioTurn.pvr.gz
 ------------ PACK 010 - W05_LavaRestaurant ------------
 Data/Meshes/LavaRestaurant/BGVolcano.bin
-Data/Meshes/Lavarestaurant/BGVolcanoDormant.bin
+Data/Meshes/LavaRestaurant/BGVolcanoDormant.bin
 Data/Meshes/LavaRestaurant/BlockDiamondInset.bin
 Data/Meshes/LavaRestaurant/BreakableA.bin
 Data/Meshes/LavaRestaurant/BreakableB.bin
