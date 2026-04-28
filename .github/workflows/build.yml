@@ -34,7 +34,7 @@ jobs:
           mv packnames.txt artifacts
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: rsdkv6-extract-${{ matrix.target }}
           path: artifacts
