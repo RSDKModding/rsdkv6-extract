@@ -2454,7 +2454,7 @@ Data/Meshes/Enemies/Marionette.bin
 Data/Meshes/Enemies/MarionetteController.bin
 Data/Meshes/Enemies/MarionetteWeapon.bin
 Data/Meshes/Enemies/Pigeon.bin
-MISSING/8808b27a55dc6cbceabd97d09c30c28f@5.bin.mdl
+Data/Meshes/Enemies/PigeonDropping.bin
 Data/Meshes/Enemies/PVBull.bin
 Data/Meshes/Enemies/Seagull.bin
 Data/Meshes/Enemies/Spider.bin
@@ -3875,7 +3875,7 @@ Data/Meshes/Courthouse/WallFrameSquare_Green.bin
 Data/Meshes/Courthouse/WallFrameSquare_Red.bin
 Data/Meshes/Courthouse/WallLavaLamp.bin
 Data/Meshes/Courthouse/WallLavaLamp_Small.bin
-MISSING/56904dc7198a574d945bfabf2240ab78@15.bin.mdl
+Data/Meshes/Courthouse/WaterGushPipe.bin
 Data/Meshes/Courthouse/WaterTapBase.bin
 Data/Meshes/Courthouse/WaterTapWheel.bin
 Data/Meshes/Skybox/CHSkinGrad.bin
@@ -3936,15 +3936,15 @@ Data/Meshes/Vanillatown2/WaterGushBend.bin
 Data/Meshes/Vanillatown2/WaterGushFoam.bin
 Data/Meshes/Vanillatown2/WaterGushPipe.bin
 Data/Meshes/Vanillatown2/WaterGushStraight.bin
-Data/Meshes/Vanillatownredux/CrownBalloon.bin
+Data/Meshes/VanillatownRedux/CrownBalloon.bin
 Data/Meshes/VanillatownRedux/DivingBoard.bin
 Data/Meshes/VanillatownRedux/Log_256.bin
 Data/Meshes/VanillatownRedux/Log_384.bin
 Data/Meshes/VanillatownRedux/Log_512.bin
-Data/Meshes/Vanillatownredux/PaperLantern.bin
+Data/Meshes/VanillatownRedux/PaperLantern.bin
 Data/Meshes/VanillatownRedux/Pinwheel.bin
 Data/Meshes/VanillatownRedux/SuctionPipe.bin
-Data/Meshes/Vanillatownredux/WaterGush.bin
+Data/Meshes/VanillatownRedux/WaterGush.bin
 Data/Meshes/VanillatownRedux/WaterTapBase.bin
 Data/Meshes/VanillatownRedux/WaterTapWheel.bin
 Data/Palettes/World/VanillatownRedux.bin
